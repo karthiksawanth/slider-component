@@ -1,0 +1,8 @@
+.slider-component {
+    display: flex;
+    padding: 10px;
+}
+.total-hours {
+    font-size: 14px;
+    margin-top:14px;
+}
